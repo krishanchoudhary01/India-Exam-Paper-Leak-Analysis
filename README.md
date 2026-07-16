@@ -2,7 +2,7 @@
 
 An end-to-end data analysis project examining exam paper leak incidents across India, from raw data cleaning to an interactive Power BI dashboard.
 
-![Dashboard Preview](exam-paper-leak-dashboard/screenshots)
+![Dashboard Preview](exam-paper-leak-dashboard/screenshots/dashboard_final.jpg)
 
 ## Project Overview
 
