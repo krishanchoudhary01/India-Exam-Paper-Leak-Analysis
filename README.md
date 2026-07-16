@@ -43,7 +43,7 @@ Raw data was cleaned and standardized using Pandas before being loaded into Powe
 - Extracting Year, Month, and Quarter fields from the incident date
 - Handling missing or inconsistent entries
 
-See [exam-paper-leak-dashboard/notebooks/paperleaks.ipynb) for the full cleaning process.
+See ['exam-paper-leak-dashboard/notebooks/paperleaks.ipynb) for the full cleaning process.
 
 ## Dashboard Features
 
